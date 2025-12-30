@@ -44,7 +44,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 ### 🔗 Part of the "Ultimate Utility Toolkit"
-This tool is part of the **[Anunzio International Utility Toolkit](https://github.com/anzulaqeel/ultimate-utility-toolkit)**.
+This tool is part of the **[Anunzio International Utility Toolkit](https://github.com/anzulaqeel-anunzio/ultimate-utility-toolkit)**.
 Check out the full collection of **180+ developer tools, scripts, and templates** in the master repository.
 
 Developed for Anunzio International by Anzul Aqeel.
